@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "501393361615",
+    "firebase_url": "https://demension-of-ghost-default-rtdb.firebaseio.com",
+    "project_id": "demension-of-ghost",
+    "storage_bucket": "demension-of-ghost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501393361615:android:160c7ff040509eeba805ba",
+        "android_client_info": {
+          "package_name": "com.dimension_of_ghost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDur3yYetHPu3QXGdBSB3VJm6jjFBX9fS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
